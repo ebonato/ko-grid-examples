@@ -3,22 +3,22 @@
   "name": "ko-grid-examples",
   "description": "Example pages for the ko-grid and its extensions.",
   "authors": [
-    "Ben Schulz (https://github.com/benschulz)"
+    "Eduardo Bonato (https://github.com/ebonato)"
   ],
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/benschulz/ko-grid-examples.git"
+    "url": "http://github.com/ebonato/ko-grid-examples.git"
   },
   "dependencies": {
     "es6-promise": "~2.0.1",
     "knockout": "^3.3.0",
-    "ko-grid-bundle": "benschulz/ko-grid-bundle",
+    "ko-grid-bundle": "ebonato/ko-grid-bundle",
     "moment": "^2.0.0",
     "normalize-css": "^3.0.2",
     "octicons": "~2.2.0",
     "requirejs": "^2.1.16",
     "requirejs-plugins": "^1.0.3",
-    "stringifyable": "benschulz/stringifyable"
+    "stringifyable": "ebonato/stringifyable"
   }
 }
